@@ -16,6 +16,7 @@ fields:
   label: slug
 pages:
 - docs/editing-in-forestry.md
+- docs/lesson-10-agile-and-reflect.md
 - docs/lesson-6-exploratory-testing-and-management.md
 - docs/lesson-7-testing-specific-communication.md
 - docs/lesson-8-reflect-and-agile-at-glance.md
