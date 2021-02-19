@@ -16,4 +16,5 @@ fields:
   label: slug
 pages:
 - docs/editing-in-forestry.md
+- docs/lesson-6-exploratory-testing-and-management.md
 - docs/testing-fundamentals-and-principles.md
