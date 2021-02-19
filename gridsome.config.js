@@ -16,7 +16,7 @@ function addStyleResource (rule) {
 }
 
 module.exports = {
-  siteName: 'Jamdocs',
+  siteName: 'The Coders Guild - Testing Boot Camp',
   siteUrl: 'https://jamdocs.samuelhorn.com',
   templates: {
     Doc: '/:slug',

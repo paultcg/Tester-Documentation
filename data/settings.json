@@ -1,24 +1,37 @@
 {
   "sidebar": [
     {
-      "section": "Introduction",
+      "section": "Info and Resources",
       "topics": [
         {
-          "title": "Getting started",
-          "slug": "getting-started"
+          "title": "About the Course",
+          "slug": "About"
         }
       ]
     },
     {
-      "section": "Setup",
+      "section": "Lesson Plans",
       "topics": [
         {
-          "title": "Theme configuration",
-          "slug": "theme-configuration"
+          "title": "Lesson 1",
+          "slug": "Lesson1"
         },
         {
-          "title": "Forestry CMS",
-          "slug": "forestry-cms"
+          "title": "Lesson 2",
+          "slug": "Lesson2"
+        },
+        {
+          "title": "Lesson 3",
+          "slug": "Lesson3"
+        }
+      ]
+    },
+    {
+      "section": "Challenges/Tasks",
+      "topics": [
+        {
+          "title": "Tasks and Challenges",
+          "slug": "tasks"
         }
       ]
     }
