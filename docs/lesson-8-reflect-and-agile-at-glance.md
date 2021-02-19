@@ -7,7 +7,7 @@ slug: lesson8
 
 ## **Description**
 
-Documentation and reporting are important. Moreso in some settings than others but there will be some.
+Documentation and reporting are important. More so in some settings than others but there will be some.
 
 **Why this is important**
 
