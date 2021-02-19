@@ -13,8 +13,8 @@
       "section": "Lesson Plans",
       "topics": [
         {
-          "title": "Lesson 6",
-          "slug": "lesson6"
+          "title": "Lesson 7",
+          "slug": "lesson7"
         },
         {
           "title": "Lesson 1",
@@ -35,6 +35,10 @@
         {
           "title": "Lesson 5",
           "slug": "lesson5"
+        },
+        {
+          "title": "Lesson 6",
+          "slug": "lesson6"
         }
       ]
     },
