@@ -25,7 +25,7 @@ At the end of this training you will be able to:
 
 To have completed the ‘Communication in Testing’ module
 
-## **Outline** (agenda)
+## **Outline**
 
 * Introduction
 * Recap of last session (importance of psychological safety and showcase code of conduct)
