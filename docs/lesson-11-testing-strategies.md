@@ -58,7 +58,3 @@ Bring in documentation examples, with permission
 
   Books:
 * Bridging the Communication Gap – Gojko Adzic
-
-## **Trainer Resources**
-
-Examples & Templates
