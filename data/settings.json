@@ -4,12 +4,12 @@
       "section": "Info and Resources",
       "topics": [
         {
-          "title": "Help and Feedback",
-          "slug": "Help_and_Feedback"
-        },
-        {
           "title": "About the Course",
           "slug": "About"
+        },
+        {
+          "title": "Help and Feedback",
+          "slug": "Help"
         }
       ]
     },
