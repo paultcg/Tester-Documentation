@@ -6,19 +6,19 @@ slug: lesson14
 ---
 ## **Description**
 
-There are a number of ‘ilities’ of software that greatly affect the ability of the system to be tested. These are, testability, observability and monitor-ability.
+Tools have been around forever and in software development are essential to working. For testing this is also true. This session will give an overview of some tools that can help your testing in multiple ways.
 
 **Why this is important**
 
-If you cannot test the system, see what is happening internally or access the logs, it is hard to have confidence in it.
+Tools can do many things from speeding up processes to inspecting software in different ways. It is important to know what types are available and how they can help.
 
 ## **Outcomes**
 
 At the end of this training you will be able to:
 
-* Understand the meaning of the three main ‘ilities’
-* Have heard the value these can bring to a project and the damage their lack can cause
-* Understand the importance of these ‘ilities’
+* Understand the different types of tools you can use for testing a project
+* Appreciate how different testing tools can help
+* Have seen some tools in action
 
 ## **Learner Requirements**
 
@@ -29,28 +29,19 @@ To have completed the ‘Think like a Tester?’ module
 ## **Outline**
 
 * Introduction
-* Testability
-* Observability
-* Monitorability
+* The different types of test tools available
+* Test tools in action
 * Summary
 
 ## **Tasks**
 
-* Research and write a definition for testability
-* Research and write a definition for observability
-* Research and write a definition for monitorability
+* Use some of the tools shown or others you find to test some software
+* Write up a brief summary of your experiences and how they helped or might help
 
 ## **Further tasks**
 
-Write a paper of up to two sides on the ‘ilities’ explaining how they apply at your work place and how they might be improved
+TBC
 
 ## **Resources / Reference**
 
-* Intro Slides on Google Drive
-* [https://leanpub.com/softwaretestability](https://leanpub.com/softwaretestability "https://leanpub.com/softwaretestability")
-* [https://github.com/SkeltonThatcher/testability-book](https://github.com/SkeltonThatcher/testability-book "https://github.com/SkeltonThatcher/testability-book")
-* [https://docs.honeycomb.io/learning-about-observability/intro-to-observability/](https://docs.honeycomb.io/learning-about-observability/intro-to-observability/ "https://docs.honeycomb.io/learning-about-observability/intro-to-observability/")
-
-Books:
-
-Software Testability by Ash Winter and Rob Meany
+Bug Magnet
