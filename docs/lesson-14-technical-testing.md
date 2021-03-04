@@ -1,7 +1,7 @@
 ---
 title: Lesson 14 - Technical Testing
 date: 
-slug: lesson13
+slug: lesson14
 
 ---
 ## **Description**
