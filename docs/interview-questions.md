@@ -1,7 +1,7 @@
 ---
 title: Interview Questions
 date: 
-slug: interview_questions
+slug: Interview_questions
 
 ---
 # **Interview Questions**
