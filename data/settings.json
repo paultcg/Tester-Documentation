@@ -13,6 +13,10 @@
       "section": "Lesson Plans",
       "topics": [
         {
+          "title": "Lesson 15",
+          "slug": "lesson15"
+        },
+        {
           "title": "Lesson 1",
           "slug": "Lesson1"
         },
