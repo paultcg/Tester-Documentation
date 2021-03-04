@@ -4,6 +4,10 @@
       "section": "Info and Resources",
       "topics": [
         {
+          "title": "Interview Questions",
+          "slug": "Interview_questions"
+        },
+        {
           "title": "About the Course",
           "slug": "About"
         },
