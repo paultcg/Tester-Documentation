@@ -1,7 +1,7 @@
 ---
 title: Lesson 11 - Testing Strategies
 date: 
-slug: ''
+slug: lesson11
 
 ---
 ## **Description**
