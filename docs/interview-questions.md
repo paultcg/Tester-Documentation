@@ -1,6 +1,6 @@
 ---
 title: Interview Questions
-date: 
+date: 2021-03-04
 slug: interview_questions
 
 ---
