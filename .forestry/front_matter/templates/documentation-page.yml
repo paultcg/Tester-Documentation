@@ -16,6 +16,7 @@ fields:
   label: slug
 pages:
 - docs/editing-in-forestry.md
+- docs/help-and-feedback.md
 - docs/lesson-10-agile-and-reflect.md
 - docs/lesson-11-testing-strategies.md
 - docs/lesson-12-specialisms.md
