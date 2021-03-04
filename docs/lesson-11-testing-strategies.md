@@ -42,20 +42,23 @@ Bring in documentation examples, with permission
 
 ## **Tasks**
 
-* Define quality to you
-* Define quality where you work
-* Measure quality exercise
+* Review different documents and templates
+* Create test overviews of different types
 
 ## **Further tasks**
 
-* Read Explore it by Elisabeth Hendrickson
-* Try out TestBuddy [https://testbuddy.co/](https://testbuddy.co/ "https://testbuddy.co/")
-* Visit [https://www.qeek.co/blog](https://www.qeek.co/blog "https://www.qeek.co/blog")
-* Visit [http://www.satisfice.com/sbtm/](http://www.satisfice.com/sbtm/ "http://www.satisfice.com/sbtm/")
+* Up to two sides on the test overview documentation used at your placement with suggestions for improvement
+* 
 
-**Resources / Reference**
+## **Resources / Reference**
 
 * Intro Slides on Google Drive
-* If you can’t measure something, you can’t improve it. Lord Kelvin / H James Harrington
-* Books
+* [https://www.softwaretestinghelp.com/writing-test-strategy-document-template/](https://www.softwaretestinghelp.com/writing-test-strategy-document-template/ "https://www.softwaretestinghelp.com/writing-test-strategy-document-template/")
+* [https://strongqa.com/qa-portal/testing-docs-templates/test-strategy](https://strongqa.com/qa-portal/testing-docs-templates/test-strategy "https://strongqa.com/qa-portal/testing-docs-templates/test-strategy")
+
+  Books:
 * Bridging the Communication Gap – Gojko Adzic
+
+## **Trainer Resources**
+
+Examples & Templates
