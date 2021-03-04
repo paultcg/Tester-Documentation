@@ -6,51 +6,41 @@ slug: lesson16
 ---
 ## **Description**
 
-While it is easy to understand what we mean by functional testing, people have been trying for years to define a term to replace non-functional testing. These quality attributes broadly encompass anything that isn’t functional such as accessibility, performance, usability, security etc. Some of these are viewed as specialisms, others their own role but as testers it is important for us to have some understanding to identify risks and ask informed questions.
+This could be described as the skills to be employable or simply the skills to secure a job. Some examples include interview skills, growing your reputation, understanding LinkedIn and communities. These are often expected to somehow be known or briefly mentioned. This module seeks to make the subject easier to understand and provide the tools to excel.
 
 **Why this is important**
 
-Software does not function in isolation. It is deployed or accessed through networks, used by many people with differing needs across a growing multitude of platforms, devices, browsers and in many different contexts.
-
-Failure to consider non-functional testing can result in website crashes, poor experience, reputational damage, law suits and fines. These also offer options to broaden your career and make you more valuable to companies.
+There are many steps to getting an interview and very little opportunity to practice them. Having a CV and portfolio that shows your skills in the best light can get you seen or spoken to. Being able to respond to a question you don’t know the answer to can put you in a better light. These can make the difference to being offered a role or not.
 
 ## **Outcomes**
 
 At the end of this training you will be able to:
 
-* Understand at a high level a variety of non-functional testing areas
-* Consider options for specialisms and career paths
+* Understand what employability skills are and why they are important
+* Appreciate how communities and networks can help you find work
+* Be aware of your reputation and brand
+* Recognise the value of an employability portfolio
 
 ## **Learner Requirements**
 
-To have completed the ‘What is Testing?’ module
-
-To have completed the ‘Think like a Tester?’ module
+TBC
 
 ## **Outline**
 
 * Introduction
-* Defining non-functional testing
-* Types of non-functional testing
-* Capturing non-functional requirements
-* Specialisms and career opportunities
+* Community and networks
+* Understanding and growing your reputation
+* CV’s and cover letters
 * Summary
 
 ## **Tasks**
 
-* Review different documents and templates
-* Create test overviews of different types
+* TBC
 
 ## **Further tasks**
 
-* Accessibility Quiz © Ady Stokes
-* Identifying performance needs
-* Threat modelling
-* Good and bad UX/UI
-* AI/ML use
+N/A
 
 ## **Resources / Reference**
 
 * Intro Slides on Google Drive
-* [https://en.wikipedia.org/wiki/Non-functional_testing](https://en.wikipedia.org/wiki/Non-functional_testing "https://en.wikipedia.org/wiki/Non-functional_testing")
-* [https://www.softwaretestinghelp.com/what-is-non-functional-testing/](https://www.softwaretestinghelp.com/what-is-non-functional-testing/ "https://www.softwaretestinghelp.com/what-is-non-functional-testing/")
