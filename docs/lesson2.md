@@ -1,5 +1,5 @@
 ---
-title: Lesson 2 - What is Testing
+title: 02 What is Testing
 date: 2020-01-02
 slug: Lesson2
 
