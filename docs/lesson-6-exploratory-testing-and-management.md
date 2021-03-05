@@ -1,5 +1,5 @@
 ---
-title: Lesson 6 - Exploratory Testing and Management
+title: 06 - Exploratory Testing and Management
 date: 2021-02-19
 slug: lesson6
 
