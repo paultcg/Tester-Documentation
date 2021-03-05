@@ -1,5 +1,5 @@
 ---
-title: Lesson  9 - Showcase
+title: '09 - Showcase'
 date: 2021-02-19
 slug: lesson9
 
