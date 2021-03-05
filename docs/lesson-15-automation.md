@@ -1,20 +1,18 @@
 ---
 title: 15 - Automation
 date: 
-slug: lesson15
+slug: Lesson15
 
 ---
-## **Description**
-
 When automation is used correctly it can enhance projects and help accelerate delivery by covering the mundane and repetitive test cases. This leaves the tester with more time to explore and focus on areas where they can add most value. When it is done badly it can cost more than it saves, give false confidence and allow issues to go live.
 
 Through this module we will cover how automation can enhance testing, the different kinds of automation available and why it is impossible to automate everything.
 
-**Why this is important**
+## Why this is important
 
 Automation can be costly to create and maintain and 100% passes does not mean there are no issues. It is important to understand the subject, even if you do not want to be an automation specialist so you can join the conversation and offer informed information and options.
 
-## **Outcomes**
+## Outcomes
 
 At the end of this training you will be able to:
 
@@ -24,13 +22,13 @@ At the end of this training you will be able to:
 * something with impact and repetitiveness)
 * Describe why you cannot have 100% automation
 
-## **Learner Requirements**
+## Learner Requirements
 
 To have completed the ‘What is Testing?’ module
 
 To have completed the ‘Think like a Tester?’ module
 
-## **Outline**
+## Outline (agenda)
 
 * Introduction
 * Types of automation
@@ -38,16 +36,16 @@ To have completed the ‘Think like a Tester?’ module
 * The dangers of automation
 * Summary
 
-## **Tasks**
+## Tasks
 
 * In pairs, research the automation pyramid and present back findings
 * In pairs, identify two key test cases where you work that should and should not be automated with reasoning
 
-## **Further tasks**
+## Further tasks
 
 Up to two sides on either, how automation is used where you work with suggestions of how it could be improved or; how automation could be used where you work with suggestions of how to implement or experiment
 
-## **Resources / Reference**
+## Resources / Reference
 
 * Intro Slides on Google Drive
 * [https://www.ministryoftesting.com/dojo/topics/automation](https://www.ministryoftesting.com/dojo/topics/automation "https://www.ministryoftesting.com/dojo/topics/automation") (mostly Pro membership)
