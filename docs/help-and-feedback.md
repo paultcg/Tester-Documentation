@@ -1,10 +1,9 @@
 ---
-title: Help and Feedback
+title: Help & Feedback
 date: 
 slug: Help
 
 ---
-Help & Feedback
 
 ## Where to get help
 
