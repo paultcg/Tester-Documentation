@@ -1,7 +1,7 @@
 ---
 title: 07 - Testing Specific Communication
 date: 2021-02-19
-slug: lesson7
+slug: Lesson7
 
 ---
 We communicate so much that we often fail to recognise the impact it can have on others. What is meant as an innocent comment can be hurtful and make working situations difficult. There is a skill to offering feedback in a way that engages with those receiving it and this module will help you understand the process and techniques required.
