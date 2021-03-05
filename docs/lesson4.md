@@ -1,5 +1,5 @@
 ---
-title: Lesson 4 - Think Like a Tester
+title: 04 - Think Like a Tester
 date: 2020-01-02
 slug: Lesson4
 
