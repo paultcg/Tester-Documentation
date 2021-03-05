@@ -1,18 +1,16 @@
 ---
 title: 13 - Ilities
 date: 
-slug: lesson13
+slug: Lesson13
 
 ---
-## **Description**
-
 There are a number of ‘ilities’ of software that greatly affect the ability of the system to be tested. These are, testability, observability and monitor-ability.
 
-**Why this is important**
+## Why this is important
 
 If you cannot test the system, see what is happening internally or access the logs, it is hard to have confidence in it.
 
-## **Outcomes**
+## Outcomes
 
 At the end of this training you will be able to:
 
@@ -20,13 +18,13 @@ At the end of this training you will be able to:
 * Have heard the value these can bring to a project and the damage their lack can cause
 * Understand the importance of these ‘ilities’
 
-## **Learner Requirements**
+## Learner Requirements
 
 To have completed the ‘What is Testing?’ module
 
 To have completed the ‘Think like a Tester?’ module
 
-## **Outline**
+## Outline (agenda)
 
 * Introduction
 * Testability
@@ -34,23 +32,23 @@ To have completed the ‘Think like a Tester?’ module
 * Monitorability
 * Summary
 
-## **Tasks**
+## Tasks
 
 * Research and write a definition for testability
 * Research and write a definition for observability
 * Research and write a definition for monitorability
 
-## **Further tasks**
+## Further tasks
 
 Write a paper of up to two sides on the ‘ilities’ explaining how they apply at your work place and how they might be improved
 
-## **Resources / Reference**
+## Resources / Reference
 
 * Intro Slides on Google Drive
 * [https://leanpub.com/softwaretestability](https://leanpub.com/softwaretestability "https://leanpub.com/softwaretestability")
 * [https://github.com/SkeltonThatcher/testability-book](https://github.com/SkeltonThatcher/testability-book "https://github.com/SkeltonThatcher/testability-book")
 * [https://docs.honeycomb.io/learning-about-observability/intro-to-observability/](https://docs.honeycomb.io/learning-about-observability/intro-to-observability/ "https://docs.honeycomb.io/learning-about-observability/intro-to-observability/")
 
-Books:
+## Books
 
 Software Testability by Ash Winter and Rob Meany
