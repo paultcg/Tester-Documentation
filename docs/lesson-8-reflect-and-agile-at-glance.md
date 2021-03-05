@@ -4,11 +4,11 @@ date: 2021-02-19
 slug: lesson8
 
 ---
-## **Outline**
+## Outline (agenda)
 
-* **Reflect and Rethink**
-* **Agile Lifecycle**
-* **Role of an Agile Tester**
-* **Scrum board**
-* **Epic, User Stories and Tasks**
-* **Retrospective**
+* Reflect and Rethink
+* Agile Lifecycle
+* Role of an Agile Tester
+* Scrum board
+* Epic, User Stories and Tasks
+* Retrospective
