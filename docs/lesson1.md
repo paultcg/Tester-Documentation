@@ -6,10 +6,6 @@ slug: Lesson1
 ---
 Welcome to the Tester Bootcamp with The Coders Guild.
 
-This course will aim to take you through some of the really important knowledge to help you develop and hopefully progress into a career as a software tester.
-
-Working in IT as a software tester can be a rewarding career for people from many different backgrounds. Completing the course can give you the knowledge tools and artefacts to gain entry to a full apprenticeship or secure a junior testing role.
-
 In this module we will go through what the course will entail, what is expected of you and the value and benefits you can gain.
 
 ## Why this is important
