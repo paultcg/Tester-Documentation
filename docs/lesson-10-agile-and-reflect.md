@@ -1,5 +1,5 @@
 ---
-title: Lesson 10 - I've found a bug! What next?
+title: 10 - I've found a bug! What next?
 date: 2021-02-19
 slug: lesson10
 
