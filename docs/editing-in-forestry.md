@@ -4,13 +4,13 @@ date: 2020-01-02
 slug: tasks
 
 ---
-* Make list of Software Testing Heuristics and mnemonics and tell us which one you like the most?
+* Make a list of Software Testing Heuristics and mnemonics and tell us which one you like the most?
 * Thinking exercise: Can you think of any scenario where there was a large impact due to software failure?
 * Google thought techniques and pick 4 or 5 and dig deeper how they can be applied in software testing.
-* Create an account on LinkedIn and Twitter. Follow people from wider testing community. Let others know you’re attending an awesome bootcamp.
+* Create an account on LinkedIn and Twitter. Follow people from the wider testing community. Let others know you’re attending an awesome bootcamp.
 * Read about “Verification” & “Validation”.
 * What are the different activities throughout the software development process?
-* Which software quality attributes matters to you most?
+* Which software quality attributes matter to you most?
 * List software quality principles.
 * 30 Days of Testing Challenge
 * 30 Days of Quality Challenge
