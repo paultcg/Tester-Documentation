@@ -1,5 +1,5 @@
 ---
-title: Lesson 12 - Specialisms
+title: 12 - Specialisms
 date: 
 slug: lesson12
 

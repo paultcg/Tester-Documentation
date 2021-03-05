@@ -1,5 +1,5 @@
 ---
-title: Lesson 11 - Testing Strategies
+title: 11 - Testing Strategies
 date: 
 slug: lesson11
 
