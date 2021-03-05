@@ -1,5 +1,5 @@
 ---
-title: Welcome to the Tester Bootcamp with The Coders Guild
+title: Welcome
 date: 2020-01-02
 slug: About
 
