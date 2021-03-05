@@ -1,5 +1,5 @@
 ---
-title: Lesson 15 - Automation
+title: 15 - Automation
 date: 
 slug: lesson15
 
