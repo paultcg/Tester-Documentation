@@ -1,5 +1,5 @@
 ---
-title: Lesson 1 Course Introduction
+title: 01 Course Introduction
 date: 2020-01-02
 slug: Lesson1
 
