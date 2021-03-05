@@ -1,5 +1,5 @@
 ---
-title: Lesson 16 - Employability Skills
+title: 16 - Employability Skills
 date: 
 slug: lesson16
 
