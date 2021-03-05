@@ -4,8 +4,6 @@ date: 2020-01-02
 slug: Lesson3
 
 ---
-## Description
-
 Quality is suitability for its defined purpose. If only it were that easy to define what we mean by quality in creating software. In this module we will discuss definitions of quality and understand how they relate to creating software. We will explore the different types of quality and how we might measure them. We will also look at things that can erode quality throughout the process of creating software, from ideation to delivery.
 
 ## Why this is important
