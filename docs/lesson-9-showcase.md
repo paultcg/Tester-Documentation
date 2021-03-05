@@ -1,7 +1,7 @@
 ---
 title: '09 - Showcase'
 date: 2021-02-19
-slug: lesson9
+slug: Lesson9
 
 ---
 Drawing on the skills learnt in previous sessions, we corroborate what we have learned whilst practicing our presentation and public speaking skills in a Showcase.
