@@ -1,5 +1,5 @@
 ---
-title: Lesson 8 - Retro & Agile
+title: '08 - Retro & Agile'
 date: 2021-02-19
 slug: lesson8
 
