@@ -25,6 +25,10 @@
       "section": "Lesson Plans",
       "topics": [
         {
+          "title": "Test",
+          "slug": "test"
+        },
+        {
           "title": "Lesson 1",
           "slug": "Lesson1"
         },
