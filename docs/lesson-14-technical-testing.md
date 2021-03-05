@@ -1,5 +1,5 @@
 ---
-title: Lesson 14 - Technical Testing
+title: 14 - Technical Testing
 date: 
 slug: lesson14
 
