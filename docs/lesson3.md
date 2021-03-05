@@ -1,5 +1,5 @@
 ---
-title: Lesson 3 - What is Quality
+title: 03 - What is Quality
 date: 2020-01-02
 slug: Lesson3
 
