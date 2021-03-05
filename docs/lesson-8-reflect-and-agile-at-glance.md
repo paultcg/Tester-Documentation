@@ -1,7 +1,7 @@
 ---
 title: '08 - Retro & Agile'
 date: 2021-02-19
-slug: lesson8
+slug: Lesson8
 
 ---
 ## Outline (agenda)
