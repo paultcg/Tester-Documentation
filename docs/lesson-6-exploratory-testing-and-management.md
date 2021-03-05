@@ -1,7 +1,7 @@
 ---
 title: 06 - Exploratory Testing and Management
 date: 2021-02-19
-slug: lesson6
+slug: Lesson6
 
 ---
 One of the key skills software testers need is the ability to undertake exploratory testing. Focused, targeted and skilful exploratory testing can find potential issues that might not otherwise surface. The ability to learn, design, execute, adapt and interpret in one session is a skill that takes practice, but will make you a highly sought after test professional. This approach to testing can be applied at multiple stages in the design and creation of software.
