@@ -19,7 +19,7 @@ slug: tasks
 * Record yourself doing nothing for 30 seconds to see how you are being displayed and what is around you.
 * Follow: Lisa Crispin and Janet Gregory on Twitter and LinkedIn
 * Read about “Agile Test Quadrant” : [https://lisacrispin.com/2011/11/08/using-the-agile-testing-quadrants/](https://lisacrispin.com/2011/11/08/using-the-agile-testing-quadrants/ "https://lisacrispin.com/2011/11/08/using-the-agile-testing-quadrants/")
-* Watch talk by Ash Coleman
+* Watch talk by Ash Coleman 
 
 [https://www.ministryoftesting.com/dojo/lessons/agile-tester-interactions-the-story-of-story-kickoff-ash-coleman?s_id=6518600](https://www.ministryoftesting.com/dojo/lessons/agile-tester-interactions-the-story-of-story-kickoff-ash-coleman?s_id=6518600 "https://www.ministryoftesting.com/dojo/lessons/agile-tester-interactions-the-story-of-story-kickoff-ash-coleman?s_id=6518600")
 
