@@ -1,5 +1,5 @@
 ---
-title: '08 - Retro & Agile'
+title: '08 - I''ve found a bug what next?'
 date: 2021-02-19
 slug: Lesson8
 
