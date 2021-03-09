@@ -12,14 +12,14 @@ slug: tasks
 * What are the different activities throughout the software development process?
 * Which software quality attributes matter to you most?
 * List software quality principles.
-* 30 Days of Testing Challenge
-* 30 Days of Quality Challenge
+* 30 Days of Testing Challenge.
+* 30 Days of Quality Challenge.
 * In your teams (use Slack to coordinate if necessary) or individually if preferred, complete a RiskStorming session for a vending machine
 * Look to use the feedback and investigate methods to provide feedback to someone or to document and describe something you have seen.
 * Record yourself doing nothing for 30 seconds to see how you are being displayed and what is around you.
 * Follow: Lisa Crispin and Janet Gregory on Twitter and LinkedIn
 * Read about “Agile Test Quadrant” : [https://lisacrispin.com/2011/11/08/using-the-agile-testing-quadrants/](https://lisacrispin.com/2011/11/08/using-the-agile-testing-quadrants/ "https://lisacrispin.com/2011/11/08/using-the-agile-testing-quadrants/")
-* Watch talk by Ash Coleman
+* Watch talk by Ash Coleman 
 
 [https://www.ministryoftesting.com/dojo/lessons/agile-tester-interactions-the-story-of-story-kickoff-ash-coleman?s_id=6518600](https://www.ministryoftesting.com/dojo/lessons/agile-tester-interactions-the-story-of-story-kickoff-ash-coleman?s_id=6518600 "https://www.ministryoftesting.com/dojo/lessons/agile-tester-interactions-the-story-of-story-kickoff-ash-coleman?s_id=6518600")
 
